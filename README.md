@@ -17,7 +17,7 @@ A beginner-friendly reference chart for DSA time complexity and space complexity
 
 * Best performance:`O(1)` and `O(log n)`
 * Common complexity:`O(n)` and `O(n log n)`
-* Avoid for large inputs when possible:** `O(n²)`, `O(2ⁿ)`, and `O(n!)`
+* Avoid for large inputs when possible:`O(n²)`, `O(2ⁿ)`, and `O(n!)`
 
 How to Identify Time Complexity
 
